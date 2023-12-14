@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IconForCardsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 902507cb251b00a4d857054feb8b7ce8, type: 3}
+    - {fileID: 2800000, guid: b85a726f648808949b038ab32fda92f5, type: 3}
+    - {fileID: 2800000, guid: 8542fa350ce5cd048acec7e0d005c13c, type: 3}
+    - {fileID: 2800000, guid: fe4221b4225a1374ea055db250ddf794, type: 3}
+    - {fileID: 2800000, guid: 806a30ab725a3064d88865068ac88436, type: 3}
+    - {fileID: 2800000, guid: 4fdb042ae0eafec49b38018e9f2f879e, type: 3}
+    - {fileID: 2800000, guid: 89c24639d55371f4698762deb10f9325, type: 3}
+    - {fileID: 2800000, guid: 2bcb85bda0c93b8458c6645f5f374b7f, type: 3}
+    - {fileID: 2800000, guid: 5be5faba96af13d4191a6652bb3e0a55, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fe4221b4225a1374ea055db250ddf794, type: 3}
+  - {fileID: 21300000, guid: 8542fa350ce5cd048acec7e0d005c13c, type: 3}
+  - {fileID: 21300000, guid: 89c24639d55371f4698762deb10f9325, type: 3}
+  - {fileID: 21300000, guid: 4fdb042ae0eafec49b38018e9f2f879e, type: 3}
+  - {fileID: 21300000, guid: 5be5faba96af13d4191a6652bb3e0a55, type: 3}
+  - {fileID: 21300000, guid: 806a30ab725a3064d88865068ac88436, type: 3}
+  - {fileID: 21300000, guid: 902507cb251b00a4d857054feb8b7ce8, type: 3}
+  - {fileID: 21300000, guid: 2bcb85bda0c93b8458c6645f5f374b7f, type: 3}
+  - {fileID: 21300000, guid: b85a726f648808949b038ab32fda92f5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite_Chest_Rare
+  - sprite_Chest_Epic
+  - sprite_Crystal_Rare
+  - sprite_Crystal_Epic
+  - sprite_Special_Epic
+  - sprite_Crystal_Common
+  - sprite_Special_Rare
+  - sprite_Special_Common
+  - sprite_Chest_Common
+  m_RenderDataMap: {}
+  m_Tag: IconForCardsAtlas
+  m_IsVariant: 0
